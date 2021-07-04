@@ -21,16 +21,14 @@
 }
 
 .Weather li {
-    color: rgb(112, 117, 122);
+    color: rgb(53, 66, 78);
     font-size: 16px;
     font-weight: 100;
     line-height: 20px;
     list-style: none;
 }
 
-.Weather img {
-    height: 64px;
-    width: 64px;
+.Weather canvas {
     margin-right: 10px;
     display: inline-block;
 }
@@ -39,7 +37,7 @@
     font-weight: bold;
     color: rgb(32, 33, 36);
     line-height: 64px;
-    font-size: 55px;
+    font-size: 64px;
     font-weight: 400;
 }
 
@@ -49,5 +47,5 @@ font-size: 16px;
 font-weight: 400;
 position: relative;
 line-height:  1px;
-top:-34px;
+top: -32px;
 }
