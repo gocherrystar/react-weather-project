@@ -10,7 +10,7 @@ export default function App() {
   <Weather defaultCity="Sydney"/>
   <footer>
     This code was created by Yue Ajioka and is{" "}
-    <a href="https://github.com/gocherrystar/react-weather-project" target="blank" >open-sourced on GitHub</a>
+    <a href="https://github.com/gocherrystar/react-weather-project" target="blank" rel="noopener noreferrer" >open-sourced on GitHub</a>
   </footer>
   </div>
   </div>
